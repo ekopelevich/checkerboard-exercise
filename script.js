@@ -1,5 +1,3 @@
-console.log("sanity chack!");
-
 var body = document.getElementsByTagName('body')[0];
 
 var black = document.createElement('div');
